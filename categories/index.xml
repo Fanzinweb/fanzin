@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Fanzin</title>
+    <link>https://fanzinweb.github.io/fanzin/categories/</link>
+    <description>Recent content in Categories on Fanzin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Jul 2021 21:50:28 +0300</lastBuildDate><atom:link href="https://fanzinweb.github.io/fanzin/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>physics</title>
+      <link>https://fanzinweb.github.io/fanzin/categories/physics/</link>
+      <pubDate>Sun, 18 Jul 2021 21:50:28 +0300</pubDate>
+      
+      <guid>https://fanzinweb.github.io/fanzin/categories/physics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

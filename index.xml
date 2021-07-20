@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fanzin</title>
+    <link>https://fanzinweb.github.io/fanzin/</link>
+    <description>Recent content on Fanzin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Jul 2021 12:48:52 +0300</lastBuildDate><atom:link href="https://fanzinweb.github.io/fanzin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>https://fanzinweb.github.io/fanzin/posts/my-third-post/</link>
+      <pubDate>Tue, 20 Jul 2021 12:48:52 +0300</pubDate>
+      
+      <guid>https://fanzinweb.github.io/fanzin/posts/my-third-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://fanzinweb.github.io/fanzin/posts/my-second-post/</link>
+      <pubDate>Tue, 20 Jul 2021 12:46:10 +0300</pubDate>
+      
+      <guid>https://fanzinweb.github.io/fanzin/posts/my-second-post/</guid>
+      <description>Steve Francia   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Science and Democracy</title>
+      <link>https://fanzinweb.github.io/fanzin/posts/my-first-post/</link>
+      <pubDate>Sun, 18 Jul 2021 21:50:28 +0300</pubDate>
+      
+      <guid>https://fanzinweb.github.io/fanzin/posts/my-first-post/</guid>
+      <description>“Bir devleti en düşük barbarlıktan en yüksek zenginlik derecesine taşımak için barış, hafif vergiler ve hoşgörülü bir adalet yönetimi dışında çok az şey gereklidir; geri kalan her şey, şeylerin doğal seyri tarafından ortaya çıkar.”
+Adam Smith bu satırları 1755&amp;rsquo;te yazdığında, anavatanı İngiltere dünyanın en zengin ulusları arasındaydı. Britanya başbakanı Robert Walpole (1721–42 görevinde) ve Whig’in arkasından gelenler, maliyetli dış savaşlardan kaçınarak düşük vergiler koymayı göze alabildiler. Jüri tarafından yargılanma, ihtarname ve hukukun üstünlüğünün diğer yönleri Britanya&amp;rsquo;da yüzyıllardır geçerliydi.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

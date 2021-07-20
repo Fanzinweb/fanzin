@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fanzinweb.github.io/fanzin/sitemap.xml
