@@ -5,7 +5,29 @@
     <link>https://fanzinweb.github.io/fanzin/</link>
     <description>Recent content on Fanzin</description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 18 Jul 2021 21:50:28 +0300</lastBuildDate><atom:link href="https://fanzinweb.github.io/fanzin/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Tue, 20 Jul 2021 12:48:52 +0300</lastBuildDate><atom:link href="https://fanzinweb.github.io/fanzin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>https://fanzinweb.github.io/fanzin/posts/my-third-post/</link>
+      <pubDate>Tue, 20 Jul 2021 12:48:52 +0300</pubDate>
+      
+      <guid>https://fanzinweb.github.io/fanzin/posts/my-third-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://fanzinweb.github.io/fanzin/posts/my-second-post/</link>
+      <pubDate>Tue, 20 Jul 2021 12:46:10 +0300</pubDate>
+      
+      <guid>https://fanzinweb.github.io/fanzin/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+>>>>>>> 8a84875 (first comsit)
     <item>
       <title>My First Post</title>
       <link>https://fanzinweb.github.io/fanzin/posts/my-first-post/</link>
